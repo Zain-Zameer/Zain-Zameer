@@ -8,7 +8,7 @@ About Me
     🔍 I thrive on problem-solving.
     🚀 Always eager to explore more.
 
-What You'll Find
+### What You'll Find
 
 My GitHub is a canvas for my coding journey:
 
@@ -16,7 +16,7 @@ My GitHub is a canvas for my coding journey:
     📚 Learning Hub: Sharing knowledge and resources.
     💡 Innovative Projects: Tech experiments galore.
 
-Let's Connect
+### Let's Connect
 
 Let's chat, collaborate, and grow together:
 
