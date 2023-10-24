@@ -1,31 +1,77 @@
-### Hello, World! 👋
+<div align="center" width="50">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Person Coding">
+</div>
 
-I'm a passionate BScs student, a problem solver, and a code enthusiast on a quest for endless exploration in the world of technology.
-About Me
 
-    🎓 Studying Computer Science.
-    💻 Coding is my love language.
-    🔍 I thrive on problem-solving.
-    🚀 Always eager to explore more.
+<div align="center" width="50">
+  <h1>Hello Friend 👋, I'm Zain Zameer.</h1>
+</div>
 
-### What You'll Find
+<div align="center">
+    <h3>I'm a passionate CS student & Tech enthusiast</h3>
+</div>
 
-My GitHub is a canvas for my coding journey:
+- 🔭 I’m currently CS student at **Iqra University**
 
-    🧩 Problem-Solving: I solve puzzles and share solutions.
-    📚 Learning Hub: Sharing knowledge and resources.
-    💡 Innovative Projects: Tech experiments galore.
+- 🌱 I’m currently learning **Front-End Development by Meta**
 
-### Let's Connect
+- 💬 Ask me about **C language,C++ language,Java Basics,Python,Object-Oriented Programming,Self-Improvement,Mind-Set**
 
-Let's chat, collaborate, and grow together:
+- 📫 How to reach me **officialmuhammadzain45@gmail.com**
 
-    📧 Email: officialmuhammadzain45@gmail.com
-    💬 Ping me on LinkedIn.
-    🌐 Explore my code and let's code the future together! 🚀
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad-zain-zameer" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100095450346453&mibextid=ZbWKwL" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Facebook-256.png" alt="faceBook" height="40" width="40" /></a>
+<a href="https://instagram.com/townboy20?igshid=NGVhN2U2NjQ0Yg==" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" alt="instagram" height="40" width="40" /></a>
+</p>
 
-That's me in a few bytes! Happy coding! 💻✨
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="adobe design" width="40" height="40"/>
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    </a>
+    <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    </a>
+     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/137919776?v=4" alt="VSCode" width="40" height="40"/>
+    </a>
+</p>
 
+<h1 align="center">
+  ABOUT ME
+  </h1>
+ <div align="center">
+    <img src="https://media.licdn.com/dms/image/D4D16AQFdOkMoV4ZyBQ/profile-displaybackgroundimage-shrink_350_1400/0/1698144793985?e=1703721600&v=beta&t=IMaU0zFh6JqS_iH4nfsgdOoijjpfb0KBBGTGF5fybog" width="800" height="200" />
+</div>
+
+🚀 Passionate Computer Science Student 🎓 | Coding Enthusiast 💻 | Aspiring Tech Innovator 🌟
+
+🔍 About Me:
+🎓 Currently pursuing my Bachelor of Science in Computer Science at IQRA UNIVERSITY, I am driven by an insatiable curiosity for the ever-evolving world of technology. With an unwavering commitment to learning, I continually strive to push the boundaries of my knowledge and skills in the dynamic field of IT.
+
+💡 My Journey:
+🌐 Proficient in a range of programming languages, including Python, C++, C, HTML, CSS, JavaScript and still learning more about them, I relish the thrill of solving complex problems and creating innovative solutions. My journey has just begun, and I'm excited to explore new horizons, embrace challenges, and contribute to the exciting developments within the tech industry.
+
+🚀 What Drives Me:
+🌈 The beauty of the IT industry lies in its limitless opportunities for growth and innovation. I find joy in the relentless pursuit of knowledge and the chance to apply my skills to real-world projects. I believe in the power of technology to transform our world for the better, and I'm on a mission to be a part of that transformation.
+
+👨‍💼 Let's Connect:
+🤝 I'm always open to connecting with like-minded individuals, mentors, and industry professionals. If you share my passion for technology, innovation, and continuous learning, let's connect and explore how we can collaborate to shape the future together.
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zain-Zameer&show_icons=true&locale=en&layout=compact" alt="zain-zameer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zain-Zameer&show_icons=true&locale=en" alt="Zain-Zameer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zain-Zameer&" alt="Zain-Zameer" /></p>
 <!--
 **Zain-Zameer/Zain-Zameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
