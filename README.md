@@ -52,7 +52,7 @@
   ABOUT ME
   </h1>
  <div align="center">
-    <img src="https://media.licdn.com/dms/image/D4D16AQFdOkMoV4ZyBQ/profile-displaybackgroundimage-shrink_350_1400/0/1698144793985?e=1703721600&v=beta&t=IMaU0zFh6JqS_iH4nfsgdOoijjpfb0KBBGTGF5fybog" width="800" height="200" />
+    <img src="https://media.licdn.com/dms/image/D4D16AQGy9ODkB8dgHQ/profile-displaybackgroundimage-shrink_350_1400/0/1698993571679?e=1704931200&v=beta&t=SG-kUTj7vQn-UpNdLaPPgh7_xG83_89HhKR_LhLBClE" width="800" height="200" />
 </div>
 
 🚀 Passionate Computer Science Student 🎓 | Coding Enthusiast 💻 | Aspiring Tech Innovator 🌟
