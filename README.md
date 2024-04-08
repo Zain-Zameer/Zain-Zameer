@@ -44,7 +44,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
     </a>
      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/137919776?v=4" alt="VSCode" width="40" height="40"/>
+        <img src="![image](https://github.com/Zain-Zameer/Zain-Zameer/assets/137919776/c6ebcd23-0dc9-4b7c-9e64-491f67e0d6af)
+" alt="VSCode" width="40" height="40"/>
     </a>
 </p>
 
@@ -52,7 +53,7 @@
   ABOUT ME
   </h1>
  <div align="center">
-    <img src="https://media.licdn.com/dms/image/D4D16AQFkfob4-skEwQ/profile-displaybackgroundimage-shrink_350_1400/0/1703787490225?e=1709769600&v=beta&t=euLUjJzC-wAr2W3wzar3-6ZOdiXUZqbZ7ihhOzhq4vQ" width="800" height="200" />
+    <img src="https://media.licdn.com/dms/image/D4D16AQGootqW3WhsUA/profile-displaybackgroundimage-shrink_350_1400/0/1710784567299?e=1718236800&v=beta&t=RPJ9R5cNHjWXMkzXoK5-NKEfota8fjpDgIEOya311F8" width="800" height="200" />
 </div>
 
 🚀 Passionate Computer Science Student 🎓 | Coding Enthusiast 💻 | Aspiring Tech Innovator 🌟
