@@ -1,89 +1,139 @@
-<div align="center" width="50">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Person Coding">
-</div>
-
-
-<div align="center" width="50">
-  <h1>Hello Friend 👋, I'm Zain Zameer.</h1>
-</div>
-
-<div align="center">
-    <h3>I'm a passionate CS student & Tech enthusiast</h3>
-</div>
-
-- 🔭 I’m currently CS student at **Iqra University**
-
-- 🌱 I’m currently learning **Front-End Development by Meta**
-
-- 💬 Ask me about **C language,C++ language,Java Basics,Python,Object-Oriented Programming,Self-Improvement,Mind-Set**
-
-- 📫 How to reach me **officialmuhammadzain45@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-zain-zameer" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" alt="linkedin" height="40" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100095450346453&mibextid=ZbWKwL" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Facebook-256.png" alt="faceBook" height="40" width="40" /></a>
-<a href="https://instagram.com/townboy20?igshid=NGVhN2U2NjQ0Yg==" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" alt="instagram" height="40" width="40" /></a>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10002b&height=250&section=header&text=Zain%20Zameer%20@Promptivia&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="adobe design" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    </a>
-    <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    </a>
-     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="![image](https://github.com/Zain-Zameer/Zain-Zameer/assets/137919776/c6ebcd23-0dc9-4b7c-9e64-491f67e0d6af)
-" alt="VSCode" width="40" height="40"/>
-    </a>
+---
+
+# 👋 Hey, I’m Zain  
+
+**CTO @ Promptivia | AI Solutions Architect @ Altertec AI | Fellow @ Dev Weekends**  
+Full-Stack Engineer ⚡ Machine Learning Enthusiast ⚡ Vision Beyond Pixels  
+
+📍 Islamabad, Pakistan  
+📧 [Email](mailto:officialmuhammadzain45@gmail.com)  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/muhammadzain-zameer">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40"/>
+</a>
+
+<a href="https://www.instagram.com/a.i.unfiltered/">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new--v1.png" width="40"/>
+</a>
+
+<a href="https://x.com/_unfilteredai">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="40"/>
+</a>
+
+<a href="https://www.tiktok.com/@a.i.unfiltered">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/tiktok--v1.png" width="40"/>
+</a>
+
+<a href="https://medium.com/@aiunfiltered">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/medium-logo.png" width="40"/>
+</a>
+
+<a href="https://www.youtube.com/@unfiltered.a.i">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/youtube-play.png" width="40"/>
+</a>
+
+<a href="https://www.skool.com/@muhammadzain-zameer-8664">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/conference-call.png" width="40"/>
+</a>
+
+<a href="https://dev.to/aiunfiltered" target="_blank">
+  <img src="https://skillicons.dev/icons?i=devto" width="40"/>
+</a>
+
+
+
 </p>
 
-<h1 align="center">
-  ABOUT ME
-  </h1>
- <div align="center">
-    <img src="https://media.licdn.com/dms/image/D4D16AQGootqW3WhsUA/profile-displaybackgroundimage-shrink_350_1400/0/1710784567299?e=1718236800&v=beta&t=RPJ9R5cNHjWXMkzXoK5-NKEfota8fjpDgIEOya311F8" width="800" height="200" />
-</div>
+---
 
-🚀 Passionate Computer Science Student 🎓 | Coding Enthusiast 💻 | Aspiring Tech Innovator 🌟
+## 🌟 About Me  
 
-🔍 About Me:
-🎓 Currently pursuing my Bachelor of Science in Computer Science at IQRA UNIVERSITY, I am driven by an insatiable curiosity for the ever-evolving world of technology. With an unwavering commitment to learning, I continually strive to push the boundaries of my knowledge and skills in the dynamic field of IT.
+> Shifted a button 2px left and triggered a cascade of neural curiosity.  
+> Bootstrapped from pixels to pipelines, blending **full-stack logic with computer vision dreams**, stitched together by **transformers whispering in matrix math**.  
 
-💡 My Journey:
-🌐 Proficient in a range of programming languages, including Python, C++, C, HTML, CSS, JavaScript and still learning more about them, I relish the thrill of solving complex problems and creating innovative solutions. My journey has just begun, and I'm excited to explore new horizons, embrace challenges, and contribute to the exciting developments within the tech industry.
+I build intelligent systems **not just because they’re needed, but because they *could exist***.  
 
-🚀 What Drives Me:
-🌈 The beauty of the IT industry lies in its limitless opportunities for growth and innovation. I find joy in the relentless pursuit of knowledge and the chance to apply my skills to real-world projects. I believe in the power of technology to transform our world for the better, and I'm on a mission to be a part of that transformation.
+---
 
-👨‍💼 Let's Connect:
-🤝 I'm always open to connecting with like-minded individuals, mentors, and industry professionals. If you share my passion for technology, innovation, and continuous learning, let's connect and explore how we can collaborate to shape the future together.
+## 🛠 Skills & Tech  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zain-Zameer&show_icons=true&locale=en&layout=compact" alt="zain-zameer" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zain-Zameer&show_icons=true&locale=en" alt="Zain-Zameer" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zain-Zameer&" alt="Zain-Zameer" /></p>
-<!--
-**Zain-Zameer/Zain-Zameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- Skillicons supported -->
+  <img src="https://skillicons.dev/icons?i=python,r,js,react,tailwind,docker,git,firebase,mysql,linux,vscode,github,nextjs,express,nodejs,opencv,sklearn,html,css,supabase,mongodb,fastapi,java,figma,vim,git,docker,ae,anaconda,cpp,debian,django,eclipse,electron,githubactions,kali,netlify,npm,postgres,postman,pytorch,redux,regex,sequelize,tensorflow,threejs,ubuntu,vite," />
 
-Here are some ideas to get you started:
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 📜 Certifications  
+
+✅ Intermediate SQL from Datacamp
+✅ Docker from Datacamp
+✅ Python Crash Course from Google 
+✅ Learn R from FreeCodecamp 
+
+
+
+## 💼 Experience Timeline  
+
+```mermaid
+timeline
+    title Professional Journey
+    2025-08 : CTO @ Promptivia 
+    2025-08 : AI Solutions Architect @ Altertec AI
+    2025-06 : Dev Fellow @ Dev Weekends
+    2025-06 : Data Scientist @ 10Pearls
+    2024-10 : Data Analyst & CV Engineer @ Marquette University
+    2024-05 : R Programming & Bioinformatics Tutor (Freelance)
+    2024-08 : ML Engineer @ CodexCue Software Solutions
+    2023-10 : Python Developer Intern @ CodSoft
+```
+
+## 🎓 Education  
+
+🎓 **Iqra University (Official)** – BSc, Computer Science *(2023 – 2027)*  
+🏫 **Jamia Millia Govt Degree College** – Intermediate, Computer Science *(2021 – 2022)*  
+📘 **Maple Grammar School** – Matriculation, Computer Science *(2019 – 2020)*  
+
+---
+
+## 📚 Publications  
+
+✍️ *How I Built NeuroShell — An AI-Powered Terminal That Understands You*  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=zain-zameer&show_icons=true&theme=radical" height="170"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-zameer&layout=compact&theme=radical" height="170"/> 
+</p>
+
+---
+
+## ⚡ Fun Fact  
+
+☕ Caffeine-fueled deployments.  
+🔍 Debugging reality through layers dense and otherwise.  
+💡 Building systems that blur the line between imagination and execution.  
+
+---
+
+<!-- Footer Banner --> 
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10002b&height=120&section=footer"/> 
+</p>
+
