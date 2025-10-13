@@ -69,7 +69,7 @@ I build intelligent systems **not just because they’re needed, but because the
 
 <p align="center">
   <!-- Skillicons supported -->
-  <img src="https://skillicons.dev/icons?i=python,r,js,react,tailwind,docker,git,firebase,mysql,linux,vscode,github,nextjs,express,nodejs,opencv,sklearn,html,css,supabase,mongodb,fastapi,java,figma,vim,git,docker,ae,anaconda,cpp,debian,django,eclipse,electron,githubactions,kali,netlify,npm,postgres,postman,pytorch,redux,regex,sequelize,tensorflow,threejs,ubuntu,vite," />
+  <img src="https://skillicons.dev/icons?i=python,r,js,react,tailwind,git,firebase,mysql,linux,vscode,github,nextjs,express,nodejs,opencv,sklearn,html,css,supabase,mongodb,fastapi,java,figma,vim,git,ae,anaconda,cpp,debian,django,eclipse,electron,githubactions,kali,netlify,npm,postgres,postman,pytorch,redux,regex,sequelize,tensorflow,threejs,ubuntu,vite," />
 
   
 </p>
