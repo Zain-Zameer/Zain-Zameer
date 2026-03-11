@@ -91,6 +91,7 @@ I build intelligent systems **not just because they’re needed, but because the
 ```mermaid
 timeline
     title Professional Journey
+    2025-12 : Founding AI Engineer @ HeySupport.AI
     2025-08 : CTO @ Promptivia 
     2025-08 : AI Solutions Architect @ Altertec AI
     2025-06 : Dev Fellow @ Dev Weekends
