@@ -1,13 +1,13 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10002b&height=250&section=header&text=Zain%20Zameer%20@Promptivia&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10002b&height=250&section=header&text=Zain%20Zameer%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 ---
 
 # 👋 Hey, I’m Zain  
 
-**CTO @ Promptivia | AI Solutions Architect @ Altertec AI | Fellow @ Dev Weekends**  
+**Happy Guy**  
 Full-Stack Engineer ⚡ Machine Learning Enthusiast ⚡ Vision Beyond Pixels  
 
 📍 Islamabad, Pakistan  
